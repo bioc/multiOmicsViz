@@ -2,7 +2,7 @@ Package: multiOmicsViz
 Type: Package
 Title: Plot the effect of one omics data on other omics data along the
         chromosome
-Version: 0.99.2
+Version: 1.0.0
 Date: 2017-03-03
 Author: Jing Wang <jingwang.uestc@gmail.com>
 Maintainer: Jing Wang <jingwang.uestc@gmail.com>
