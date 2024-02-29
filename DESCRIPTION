@@ -2,7 +2,7 @@ Package: multiOmicsViz
 Type: Package
 Title: Plot the effect of one omics data on other omics data along the
         chromosome
-Version: 1.27.0
+Version: 1.27.1
 Date: 2017-03-03
 Author: Jing Wang <jingwang.uestc@gmail.com>
 Maintainer: Jing Wang <jingwang.uestc@gmail.com>
@@ -19,3 +19,4 @@ Imports: methods, parallel, doParallel, foreach, grDevices, graphics,
 Suggests: BiocGenerics
 Collate: multiOmicsViz.R calculateCorForTwoMatrices.R zzz.R
 biocViews: Software, Visualization, SystemsBiology
+PackageStatus: Deprecated
